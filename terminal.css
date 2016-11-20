@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #000000;
+    color: #008000;
+    padding: 50px;
+}
+
+.container {
+    position: relative;
+    width: 80%;
+    height: 70%;
+    margin: 10px auto;
+    padding: 10px;
+    position: relative;
+}
